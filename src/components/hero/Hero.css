@@ -1,0 +1,18 @@
+.hero-class{
+    width: 80%;
+    vertical-align: middle;
+    justify-items: center;
+    font-size: medium;
+}
+.hero-class table{
+    align-content: center;
+    margin: auto;
+    font-size: large;
+    padding: 10%;
+    border: 1px solid black;
+}
+
+.hero-class table td{
+    border: 1px solid black;
+    padding: 10px;
+}
